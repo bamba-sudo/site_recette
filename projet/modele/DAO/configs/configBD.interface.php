@@ -9,6 +9,6 @@
 		const BD_UTILISATEUR = "root";
 		const BD_MOT_PASSE = "root";
 		// ********************* À remplacer par le nouveau nom de BD *******************
-		const BD_NOM = "soccer";    
+		const BD_NOM = "site_recettes";    
 	}
 ?>

@@ -7,7 +7,7 @@
 	// ****** INLCUSIONS *******
 	// si la constante n'existe pas, on la crée
 	if (defined("DOSSIER_BASE_INCLUDE") == false) {
-		define("DOSSIER_BASE_INCLUDE", $_SERVER['DOCUMENT_ROOT']."Labo6_solution/");
+		define("DOSSIER_BASE_INCLUDE", $_SERVER['DOCUMENT_ROOT']."projet/");
 	}
 	// Importe l'interface DAO et la classe Produit
 	// Donne accès à la classe de connexion à la BD

@@ -7,7 +7,7 @@
 	// ****** INLCUSIONS *******
 	// si la constante n'existe pas, on la crée
 	if (defined("DOSSIER_BASE_INCLUDE") == false) {
-		define("DOSSIER_BASE_INCLUDE", $_SERVER['DOCUMENT_ROOT']."Labo6_solution/");
+		define("DOSSIER_BASE_INCLUDE", $_SERVER['DOCUMENT_ROOT']."projet/");
 	}
 	// Le fichier configDB.interface.php contient le mot de passe, le nom d’utilisateur
 	// avec les constantes BD_HOTE, BD_NOM, BD_UTILISATEUR et BD_MOT_PASSE
